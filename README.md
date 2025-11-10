@@ -25,8 +25,9 @@ bash install_sc2.sh
 
 ### Run experiments
 
-Due to the limitation of attachment size of 50MB, we only provide the dataset of lbf_small_train.sh (LBF: 7x7-15s) here. We will provide datasets for all tasks in the future.
+We provide the data link to the full dataset by this [Google Drive URL](https://drive.google.com/file/d/1V1YoCFE2bfnmA_whSyYgbuyXz_8zW5BY/view?usp=drive_link). Unzip datasets.zip into the MAICC/datasets folder.
 
+You can run the following scripts to perform experiments in the paper.
 ```bash
 bash lbf_small_train.sh
 bash lbf_train.sh
