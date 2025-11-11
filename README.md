@@ -1,6 +1,6 @@
 # MAICC: Multi-agent In-context Coordination via Decentralized Memory Retrieval
 
-This is the implementation of the AAAI 2026 paper "Multi-agent In-context Coordination via Decentralized Memory Retrieval". 
+This is the implementation of the AAAI 2026 paper "Multi-agent In-context Coordination via Decentralized Memory Retrieval". The appendix of the paper is available at this [MAICC_supp.pdf](https://www.lamda.nju.edu.cn/jiangt/MAICC_supp.pdf).
 
 ### Install Python environment
 
